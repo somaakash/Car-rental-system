@@ -5,8 +5,6 @@ This project allows users to view available cars, rent a car, return a car, and 
 
 ---
 
----
-
 ## ✨ Features
 
 - View all available cars  
