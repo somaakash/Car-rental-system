@@ -1,32 +1,29 @@
-# Bank Account / Simple Banking (Java)
+# 🚗 Car Rental System (Java Project)
 
-A small Java console application that demonstrates basic bank-account operations (create account, deposit, withdraw, check balance).  
-This repository contains simple, educational code — great for learning OOP, basic I/O, and Java compilation.
-
-
-## ✨ Features
-
-- Create and manage a bank account object
-- Deposit money
-- Withdraw money (with basic validation)
-- Check balance
-- Simple CLI/demo flow in `Bank_main.java`
+A simple, menu-driven **Java console application** that demonstrates the core concepts of **Object-Oriented Programming (OOP)**.  
+This project allows users to view available cars, rent a car, return a car, and manage basic rental operations.
 
 ---
 
-## ⚙️ Requirements
+---
 
-- Java JDK 11+ installed on your machine
-- (Optional) Any Java IDE — IntelliJ IDEA, Eclipse, VS Code + Java extensions
+## ✨ Features
 
-Check your Java version:
+- View all available cars  
+- Rent a car  
+- Return a rented car  
+- Track car availability  
+- Uses OOP concepts:
+  - Classes & Objects
+  - Constructor and methods
+  - Encapsulation
+  - Interaction between classes
 
-```bash
-java -version
-javac -version
+---
 
+## 🛠️ Technologies Used
 
-
-
+- Java (JDK 8 or above)
+- Console input/output (Scanner class)
 
 
